@@ -7,3 +7,4 @@
  */
 echo "my first git file";
 echo "my second git file";
+echo "远程仓库更新";
